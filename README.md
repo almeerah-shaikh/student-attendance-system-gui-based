@@ -6,7 +6,7 @@ A Python-based Student Attendance System with a GUI for teachers to log in, mana
 <img width="892" height="594" alt="image" src="https://github.com/user-attachments/assets/c092c387-94cd-4e65-9ff0-87bbab90d8de" />
 
 
-# Student Attendance System GUI
+
 
 ## Project Overview
 
